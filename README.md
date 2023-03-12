@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaamtiwary&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaamtiwary" /> </p>
 
-- 🔭 I’m currently in my 3rd year of Btech in CSIT from Symbiosis,Indore. **aa**
+- 🔭 I’m currently in my **3rd year** of Btech in CSIT from Symbiosis,Indore.
 
 - 💬 Ask me about **React , NodeJs , DSA and CP**
 
