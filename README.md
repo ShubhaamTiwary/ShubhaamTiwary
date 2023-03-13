@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubhaam Tiwary</h1>
 <h3 align="center">A passionate MERN stack developer from India. I love to solve DSA problems in my free time.</h3>
 
+
+<div>![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89575981/224621963-6b863102-4119-472a-82d2-6fb8e546bdda.gif)</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaamtiwary&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaamtiwary" /> </p>
-
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89575981/224621963-6b863102-4119-472a-82d2-6fb8e546bdda.gif)
-
 - 🔭 I’m currently in my **3rd year** of Btech in CSIT from Symbiosis,Indore.
 
 - 💬 Ask me about **React , NodeJs , DSA and CP**
