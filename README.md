@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubhaam Tiwary</h1>
 <h3 align="center">A passionate MERN stack developer from India. I love to solve DSA problems in my free time.</h3>
 
+<p align="center">
+  ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89575981/224622228-91fe9063-037e-4f6d-822b-4ae0ef7de0ee.gif)
 
-<div>![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89575981/224621963-6b863102-4119-472a-82d2-6fb8e546bdda.gif)</div>
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaamtiwary&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaamtiwary" /> </p>
