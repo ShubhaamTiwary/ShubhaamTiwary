@@ -16,7 +16,7 @@
 
 <br />
 
-Greetings, I'm [Shubhaam Tiwary](https://github.com/ShubhaamTiwary) currently in my 3rd year of B.Tech in CSIT from Symbiosis, Indore. I have diverse full-stack (MERN) experience with ReactJS, NodeJS, MongoDB, and ExpressJS. 
+Greetings, I'm [Shubhaam Tiwary](https://github.com/ShubhaamTiwary), currently in my 3rd year of B.Tech in CSIT from Symbiosis, Indore. I have diverse full-stack experience with ReactJS, NodeJS, MongoDB, ExpressJS, and Firebase. 
 <br />
 Problem-solving is my strength, and I actively participate in coding challenges on platforms like LeetCode, GFG, Codechef, and Codeforces.
 
@@ -24,7 +24,7 @@ Problem-solving is my strength, and I actively participate in coding challenges 
 
 - 🌱 I'm currently dedicated to mastering Web 2 and actively contributing to open-source projects.
 - 💬 Feel free to ask me anything about React, Node.js, MongoDB, data structures and algorithms (DSA), or competitive programming (CP).
-- ⚡ Fun fact: I love laughing at my code—it's one of the most enjoyable aspects of programming for me!
+- ⚡ Fun fact: I love laughing at my code — it's one of the most enjoyable aspects of programming for me!
 - 📫 How to reach me: [Shubhaam Tiwary](https://www.linkedin.com/in/shubhaam-tiwary-10302a202/)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1RqYrYUqbruRnk8w79-x08JGZnmxYPZeT/view?usp=sharing)
 
