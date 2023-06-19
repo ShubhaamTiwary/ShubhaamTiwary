@@ -38,7 +38,7 @@ Problem-solving is my strength, and I actively participate in coding challenges 
 
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ShubhaamTiwary&show_icons=true&theme=gotham" alt="ShubhaamTiwary" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhaamTiwary&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="ShubhaamTiwary" />
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhaamTiwary&show_icons=true&theme=gotham" alt="ShubhaamTiwary" />  
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhaamTiwary&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="ShubhaamTiwary" />
   <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=ShubhaamTiwary&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-ShubhaamTiwary" />
 </div>
