@@ -1,8 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/shubhaam-tiwary-10302a202/">
-  <img align="left" alt="Shubhaam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shubhaam's LinkedIn" width="22px" src="https://github.com/ShubhaamTiwary/ShubhaamTiwary/assets/89575981/f078de31-299b-4cb3-9820-3d5af4f28a42" />
 </a>
+
+
 
 <a href="https://www.instagram.com/shubhaam_tiwary/">
   <img align="left" alt="Shubhaam's Instagram" width="22px" src="https://api.iconify.design/akar-icons/instagram-fill.svg?color=white" />
