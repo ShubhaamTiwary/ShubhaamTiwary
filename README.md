@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89575981/260128756-2b71a4a7-de4d-40c2-9330-b101bd3cc637.gif" alt="coding image" />
+</p>
+
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/shubhaam_tiwary/">
@@ -11,6 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaamtiwary&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaamtiwary" /> </p>
 
 <br />
+
 
 Greetings, I'm [Shubhaam Tiwary](https://www.linkedin.com/in/shubhaam-tiwary-10302a202/), currently in my 3rd year of B.Tech in CSIT from Symbiosis, Indore. I have diverse full-stack experience with ReactJS, NodeJS, MongoDB, ExpressJS, and Firebase. 
 <br />
