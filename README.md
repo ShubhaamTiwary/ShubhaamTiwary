@@ -25,8 +25,7 @@
 
 ### 👨‍💻 About Me
 
-I’m an **SDE-1 at Newton School** focusing on frontend development with **TypeScript, Next.js, and Redux**. Currently, I’m in my third year of **B.Tech in CSIT at Symbiosis, Indore**, and have gained hands-on experience with full-stack development across various frameworks and platforms.
-
+I’m an **SDE-1 at Newton School** focusing on frontend development with **TypeScript, Next.js, and Redux**.
 In addition to my role at Newton School, I’ve previously interned at **ProPeers** and **PagalFan** where I contributed to enhancing and scaling applications, improving system efficiency, and optimizing user experiences.
 
 **Some Highlights:**
